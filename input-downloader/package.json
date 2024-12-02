@@ -14,9 +14,6 @@
   ],
   "author": "vndtk",
   "license": "MIT",
-  "files": [
-    "./index.js"
-  ],
   "repository": {
     "type": "git",
     "url": "https://github.com/vndtk/advent-of-code.git"
